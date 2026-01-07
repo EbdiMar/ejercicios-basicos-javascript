@@ -14,7 +14,7 @@ Los ejercicios recogen:
 ## Descarga del proyecto
 
 ```
-git clone https://github.com/EbdiMar/ejercicios-basicos-javascript
+git clone https://github.com/ebdimar/ejercicios-basicos-javascript
 ```
 
 ## Modo de uso
